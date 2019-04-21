@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/akshit/Desktop/final_streaming/target/scala-2.11/spark_project_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$Raw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$Raw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$Raw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$Raw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshitbhatia/spark/streaming_app$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/akshit/Desktop/final_streaming/target/scala-2.11/classes/com/akshitbhatia/spark/streaming_app$$typecreator13$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
