@@ -33,6 +33,12 @@ object streaming_app {
     rawIn.addData(Raw("Mahi", 24))
     rawIn.addData(Raw("null", 24))
 
+    /**
+    
+     Converting rawIn into DF
+
+     **/
+
 
     val inDF= rawIn.toDF()
 
